@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoTejadaOrea
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning web app development
-- 💞️ I’m looking to collaborate on anything, I'm learning at the moment
+- 💞️ I’m looking to colaborate on some project.
 - 📫 How to reach me tejadaoreadiego@gmail.com
 
 <!---
